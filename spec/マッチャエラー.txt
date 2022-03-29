@@ -1,0 +1,24 @@
+
+test
+"ChromeDriver 99.0.4844.51 (d537ec02474b5afe23684e7963d538896c63ac77-refs/branch-heads/4844@{#875})\n"
+  ダミー (FAILED - 1)
+
+Failures:
+
+  1) test ダミー
+     Failure/Error: expect(page).to has_text?('msn')
+
+     ArgumentError:
+       The expect syntax does not support operator matchers, so you must pass a matcher to `#to`.
+
+
+
+     # ./spec/system/test3_spec.rb:18:in `block (2 levels) in <top (required)>'
+
+Finished in 0.36565 seconds (files took 0.99711 seconds to load)
+1 example, 1 failure
+
+Failed examples:
+
+rspec ./spec/system/test3_spec.rb:17 # test ダミー
+

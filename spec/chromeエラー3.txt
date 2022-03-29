@@ -1,0 +1,29 @@
+MSNを見る
+  MSNをvisitしたとき
+Capybara starting Puma...
+* Version 3.12.6 , codename: Llamas in Pajamas
+* Min threads: 0, max threads: 4
+* Listening on tcp://127.0.0.1:36005
+"/home/kondo/.rbenv/versions/2.5.9/lib/ruby/gems/2.5.0/gems/webdrivers-4.6.1/lib/webdrivers/common.rb"
+"driver_path=/home/kondo/.webdrivers/chromedriver となっています。"
+"ここに「return driver_path」を入れます"
+    MSNの文言がある (FAILED - 1)
+
+Failures:
+
+  1) MSNを見る MSNをvisitしたとき MSNの文言がある
+     Failure/Error: visit "https://www.msn.com"
+
+     Net::ReadTimeout:
+       Net::ReadTimeout
+
+     [Screenshot]: tmp/screenshots/failures_r_spec_example_groups_msn_msn_visit_msnの文言がある_726.png
+
+     # ./spec/system/test3_spec.rb:10:in `block (3 levels) in <top (required)>'
+
+Finished in 2 minutes 10.9 seconds (files took 1.03 seconds to load)
+1 example, 1 failure
+
+Failed examples:
+
+rspec ./spec/system/test3_spec.rb:13 # MSNを見る MSNをvisitしたとき MSNの文言がある

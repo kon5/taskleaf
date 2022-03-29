@@ -1,0 +1,25 @@
+# OK例(firefox)
+
+# Logfile created on 2022-03-17 03:19:38 +0900 by logger.rb/61378
+2022-03-17 03:19:38 DEBUG Webdrivers Checking current version
+2022-03-17 03:19:38 DEBUG Webdrivers /home/kondo/.webdrivers/geckodriver is already downloaded
+2022-03-17 03:19:38 DEBUG Webdrivers making System call: ["/home/kondo/.webdrivers/geckodriver", "--version"]
+2022-03-17 03:19:38 DEBUG Webdrivers System call returned: geckodriver 0.30.0 (d372710b98a6 2021-09-16 10:29 +0300)
+
+The source code of this program is available from
+testing/geckodriver in https://hg.mozilla.org/mozilla-central.
+
+This program is subject to the terms of the Mozilla Public License 2.0.
+You can obtain a copy of the license at https://mozilla.org/MPL/2.0/.
+
+2022-03-17 03:19:38 DEBUG Webdrivers Current version of /home/kondo/.webdrivers/geckodriver is geckodriver 0.30.0 (d372710b98a6 2021-09-16 10:29 +0300)
+
+The source code of this program is available from
+testing/geckodriver in https://hg.mozilla.org/mozilla-central.
+
+This program is subject to the terms of the Mozilla Public License 2.0.
+You can obtain a copy of the license at https://mozilla.org/MPL/2.0/.
+
+2022-03-17 03:19:38 DEBUG Webdrivers /home/kondo/.webdrivers/geckodriver is already downloaded
+2022-03-17 03:19:38 DEBUG Webdrivers using cached version as latest: 0.30.0
+2022-03-17 03:19:38 DEBUG Webdrivers A working webdriver version is already on the system

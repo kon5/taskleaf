@@ -1,0 +1,37 @@
+# NG例(chrome)
+
+# Logfile created on 2022-03-17 03:25:26 +0900 by logger.rb/61378
+2022-03-17 03:25:26 DEBUG Webdrivers Checking current version
+2022-03-17 03:25:26 DEBUG Webdrivers /home/kondo/.webdrivers/chromedriver is already downloaded
+2022-03-17 03:25:26 DEBUG Webdrivers making System call: ["/home/kondo/.webdrivers/chromedriver", "--version"]
+2022-03-17 03:25:26 DEBUG Webdrivers System call returned: ChromeDriver 99.0.4844.51 (d537ec02474b5afe23684e7963d538896c63ac77-refs/branch-heads/4844@{#875})
+
+2022-03-17 03:25:26 DEBUG Webdrivers Current version of /home/kondo/.webdrivers/chromedriver is ChromeDriver 99.0.4844.51 (d537ec02474b5afe23684e7963d538896c63ac77-refs/branch-heads/4844@{#875})
+
+2022-03-17 03:25:26 DEBUG Webdrivers making System call: ["/usr/bin/google-chrome", "--product-version"]
+2022-03-17 03:25:26 DEBUG Webdrivers System call returned: 99.0.4844.74
+
+2022-03-17 03:25:26 DEBUG Webdrivers Browser version: 99.0.4844.74
+2022-03-17 03:25:26 DEBUG Webdrivers Checking current version
+2022-03-17 03:25:26 DEBUG Webdrivers /home/kondo/.webdrivers/chromedriver is already downloaded
+2022-03-17 03:25:26 DEBUG Webdrivers making System call: ["/home/kondo/.webdrivers/chromedriver", "--version"]
+2022-03-17 03:25:26 DEBUG Webdrivers System call returned: ChromeDriver 99.0.4844.51 (d537ec02474b5afe23684e7963d538896c63ac77-refs/branch-heads/4844@{#875})
+
+2022-03-17 03:25:26 DEBUG Webdrivers Current version of /home/kondo/.webdrivers/chromedriver is ChromeDriver 99.0.4844.51 (d537ec02474b5afe23684e7963d538896c63ac77-refs/branch-heads/4844@{#875})
+
+2022-03-17 03:25:26 DEBUG Webdrivers Checking current version
+2022-03-17 03:25:26 DEBUG Webdrivers /home/kondo/.webdrivers/chromedriver is already downloaded
+2022-03-17 03:25:26 DEBUG Webdrivers making System call: ["/home/kondo/.webdrivers/chromedriver", "--version"]
+2022-03-17 03:25:26 DEBUG Webdrivers System call returned: ChromeDriver 99.0.4844.51 (d537ec02474b5afe23684e7963d538896c63ac77-refs/branch-heads/4844@{#875})
+
+2022-03-17 03:25:26 DEBUG Webdrivers Current version of /home/kondo/.webdrivers/chromedriver is ChromeDriver 99.0.4844.51 (d537ec02474b5afe23684e7963d538896c63ac77-refs/branch-heads/4844@{#875})
+
+2022-03-17 03:25:26 DEBUG Webdrivers making System call: ["/usr/bin/google-chrome", "--product-version"]
+2022-03-17 03:25:26 DEBUG Webdrivers System call returned: 99.0.4844.74
+
+2022-03-17 03:25:26 DEBUG Webdrivers Browser version: 99.0.4844.74
+2022-03-17 03:25:26 DEBUG Webdrivers making System call: ["/usr/bin/google-chrome", "--product-version"]
+2022-03-17 03:25:26 DEBUG Webdrivers System call returned: 99.0.4844.74
+
+2022-03-17 03:25:26 DEBUG Webdrivers Browser version: 99.0.4844.74
+2022-03-17 03:25:26 DEBUG Webdrivers Making network call to https://chromedriver.storage.googleapis.com/LATEST_RELEASE_99.0.4844

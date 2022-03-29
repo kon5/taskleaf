@@ -1,0 +1,10 @@
+# Logfile created on 2022-03-16 03:01:50 +0900 by logger.rb/61378
+I, [2022-03-16T03:01:52.549040 #7047]  INFO -- : 「return driver_path」をいきなり返してみる
+I, [2022-03-16T03:01:52.549419 #7047]  INFO -- : 「return driver_path」をいきなり返してみる
+I, [2022-03-16T03:09:53.671530 #7254]  INFO -- : 「return driver_path」をいきなり返してみる
+
+# Logfile created on 2022-03-16 03:27:52 +0900 by logger.rb/61378
+I, [2022-03-16T03:27:53.416593 #8262]  INFO -- : 「return /snap/chromium/1926/usr/lib/chromium-browser/chromedriver」を割り込ませる
+
+# Logfile created on 2022-03-16 03:57:02 +0900 by logger.rb/61378
+I, [2022-03-16T03:57:03.191693 #10283]  INFO -- : 「return driver_path」を割り込ませる
